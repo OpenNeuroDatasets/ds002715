@@ -1,0 +1,6 @@
+filename	acq_time	operator	randstr
+func/sub-05_ses-mri_task-AVSceneslong_run-01_bold.nii.gz	2012-11-30T12:06:21	n/a	4eaa3db0
+func/sub-05_ses-mri_task-AVSceneslong_run-02_bold.nii.gz	2012-11-30T12:15:02	n/a	f4d5067e
+func/sub-05_ses-mri_task-AVSceneslong_run-03_bold.nii.gz	2012-11-30T12:23:02	n/a	cb300830
+func/sub-05_ses-mri_task-AVSceneslong_run-04_bold.nii.gz	2012-11-30T12:31:11	n/a	8c44218f
+anat/sub-05_ses-mri_run-01_T1w.nii.gz	2012-11-30T12:39:46	n/a	5bfe1d3b
